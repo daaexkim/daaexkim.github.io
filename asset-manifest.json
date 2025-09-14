@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "/static/css/main.4fcb61b6.css",
+    "main.js": "/static/js/main.6d99daa1.js",
+    "static/js/453.8ab44547.chunk.js": "/static/js/453.8ab44547.chunk.js",
+    "static/media/felin.png": "/static/media/felin.bfae33f820c03a8c2622.png",
+    "static/media/Galmuri11-Bold.ttf": "/static/media/Galmuri11-Bold.9aaab941fff2b68ebe59.ttf",
+    "static/media/PyeongChangPeace-Bold.ttf": "/static/media/PyeongChangPeace-Bold.ab3ecf05dc148a912de3.ttf",
+    "static/media/instagram.png": "/static/media/instagram.85047fc1b8112ee11838.png",
+    "static/media/Moneygraphy-Rounded.ttf": "/static/media/Moneygraphy-Rounded.43682343ad9d56315976.ttf",
+    "static/media/english.png": "/static/media/english.06e049e24a4175ab5cb3.png",
+    "static/media/character.png": "/static/media/character.f90e811cbcccc5a9d11d.png",
+    "static/media/lexiNote.png": "/static/media/lexiNote.ffd29e4b9020ef156207.png",
+    "static/media/photoshop.png": "/static/media/photoshop.74d75223409fd562fca4.png",
+    "static/media/bootstrap.png": "/static/media/bootstrap.ccbeb4d79b1c4a3ac392.png",
+    "static/media/codeinLogo.png": "/static/media/codeinLogo.aa738cd662f8f830ff6c.png",
+    "static/media/excel.png": "/static/media/excel.a896b6ae3a908c9c1524.png",
+    "static/media/gachonLogo.png": "/static/media/gachonLogo.2b4d51f60d46920b29fa.png",
+    "static/media/game.png": "/static/media/game.023e3350776331de83fa.png",
+    "static/media/html.png": "/static/media/html.c33603f8833993ad7120.png",
+    "static/media/react.png": "/static/media/react.38d1a968bdeab1453b32.png",
+    "static/media/cSharp.png": "/static/media/cSharp.161aab1297fcb97c41cb.png",
+    "static/media/scroll.png": "/static/media/scroll.a6f5aff3baa6449e095f.png",
+    "static/media/word.png": "/static/media/word.a9f24f2cc2784ec4d148.png",
+    "static/media/powerpoint.png": "/static/media/powerpoint.2307c2603bdecb869b0e.png",
+    "static/media/css.png": "/static/media/css.3588546e599d6a341142.png",
+    "static/media/github.png": "/static/media/github.d021d1d863bd7bdbcc1a.png",
+    "static/media/notion.png": "/static/media/notion.d6f1bd3564e288d7877b.png",
+    "static/media/javaScript.png": "/static/media/javaScript.feee714535bab7b87eb1.png",
+    "static/media/figma.png": "/static/media/figma.5dcfad9b6c0d9d08de1c.png",
+    "index.html": "/index.html",
+    "main.4fcb61b6.css.map": "/static/css/main.4fcb61b6.css.map",
+    "main.6d99daa1.js.map": "/static/js/main.6d99daa1.js.map",
+    "453.8ab44547.chunk.js.map": "/static/js/453.8ab44547.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4fcb61b6.css",
+    "static/js/main.6d99daa1.js"
+  ]
+}
